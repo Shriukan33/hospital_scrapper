@@ -1,3 +1,4 @@
-venv/
-vscode/
-geckdriver.log
+venv
+.vscode
+geckodriver.log
+credentials.json
